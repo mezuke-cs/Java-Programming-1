@@ -58,7 +58,7 @@ java-programming-1/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mezuke-cs/java-programming-1.git
+   git clone https://github.com/mezuke-cs/Java-Programming-1.git
    ```
 2. Navigate to the desired folder (e.g., `activities/` or `projects/`).
 3. Open the `.java` files in your preferred IDE to run or modify them.
