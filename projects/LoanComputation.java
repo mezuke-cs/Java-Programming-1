@@ -1,5 +1,3 @@
-//@Dherae
-//@Rojan2424
 import java.util.Scanner;
 import java.text.DecimalFormat;
 
